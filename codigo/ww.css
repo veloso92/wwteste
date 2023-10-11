@@ -1,0 +1,24 @@
+body, ul, li, p {
+    margin-left:10px;
+    padding:0px;
+    list-style:none;
+    font-size:1.2rem;
+    font-family:arial;
+}
+    a{
+        text-decoration: none;
+    }
+.t1{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    justify-content: space-between;
+    margin-left:10px;
+    padding:10px;
+    background-color:;
+}
+p{
+    margin-left:10px;
+    padding:10px;  
+}
